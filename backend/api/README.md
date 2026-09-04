@@ -453,10 +453,6 @@ Through this project, I practiced:
 
 # Author
 
-**Aneeshbabu G**
 
-GitHub: [github.com/aneeshbabug](https://github.com/aneeshbabug)
-
-**Aneeshbabu G**
 
 GitHub: [github.com/aneeshbabug](https://github.com/aneeshbabug)
