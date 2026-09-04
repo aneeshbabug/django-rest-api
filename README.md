@@ -333,7 +333,7 @@ cd django-rest-api
 ## 2. Create a Virtual Environment
 
 ```bash
-python -m venv venv
+python -m venv .venv
 ```
 
 ### Windows
