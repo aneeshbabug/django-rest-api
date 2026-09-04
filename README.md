@@ -293,25 +293,27 @@ Authenticated + Admin + Owner
 ```text
 django-rest-api/
 │
-├── manage.py
-│
-├── api/
-│   ├── migrations/
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── permissions.py
-│   ├── serializer.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-│
 ├── backend/
-│   ├── settings.py
-│   ├── urls.py
-│   ├── asgi.py
-│   └── wsgi.py
-│
+|   |  
+|   ├── manage.py
+|   |
+|   ├── api/
+|   │   ├── migrations/
+|   │   ├── admin.py
+|   │   ├── apps.py
+|   │   ├── models.py
+|   │   ├── permissions.py
+|   │   ├── serializer.py
+|   │   ├── tests.py
+|   │   ├── urls.py
+|   │   └── views.py
+|   │
+|   └── backend/
+|       ├── settings.py
+|       ├── urls.py
+|       ├── asgi.py
+|       └── wsgi.py
+|
 ├── .gitignore
 ├── requirements.txt
 └── .env
