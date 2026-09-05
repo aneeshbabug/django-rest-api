@@ -365,14 +365,6 @@ SECRET_KEY=your-secret-key
 DEBUG=True
 ```
 
-> **Important:** Never commit your `.env` file to GitHub.
-
-Make sure `.env` is included in `.gitignore`:
-
-```gitignore
-.env
-```
-
 ## 5. Run Database Migrations
 
 ```bash
